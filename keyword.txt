@@ -1,0 +1,15 @@
+include
+scanf
+printf
+main
+for
+if
+else
+else if
+void
+int
+float
+double
+getch
+clrscr
+return
